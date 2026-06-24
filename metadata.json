@@ -1,0 +1,9 @@
+{
+  "name": "Remix: Flash UI",
+  "description": "Reporte integral de datos de una instancia de N8N: status de flujos (workflows), ejecuciones, errores, análisis predictivo de fallas con Gemini y visualización interactiva de nodos.",
+  "requestFramePermissions": [],
+  "prompt": "",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
